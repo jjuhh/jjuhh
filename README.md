@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Juhyun%20Kim's%20GIT&FontColor=F9F&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Juhyun%20Kim's%20GIT&fontColor=FFFFFF&fontSize=40&height=180&fontAlignY=30&fontAlign=80)
 <div align="center">
 
 
