@@ -40,10 +40,14 @@
   <img src="https://docs.scvi-tools.org/en/stable/_static/logo.png"  height="30">
   <img src="https://github.com/wheaton5/souporcell/raw/master/souporcell_star.png"  height="30">
   <img src="https://github.com/broadinstitute/CellBender/blob/master/docs/source/_static/design/logo_250_185.png" height="30">
-       
+  </a>
           
            
-  [![jjuhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhh)](https://github.com/jjuhh/github-readme-stats)
+  [![jjuhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhh) height=100](https://github.com/jjuhh/github-readme-stats)
   [![jjuhh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhh&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jjuhh)
   
+   <img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=jjuhh&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=white" alt="Rick Staa's Language stats" />
+  
+  <img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=jjuhh&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=white" alt="Rick Staa's Language stats" />
+</a>
 </div>
