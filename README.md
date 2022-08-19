@@ -40,6 +40,7 @@
   <img src="https://docs.scvi-tools.org/en/stable/_static/logo.png"  height="30">
   <img src="https://github.com/wheaton5/souporcell/raw/master/souporcell_star.png"  height="30">
   <img src="https://github.com/broadinstitute/CellBender/blob/master/docs/source/_static/design/logo_250_185.png" height="30">
+  <img src="https://scenic.aertslab.org/images/scenic_logo.png" height="30">
   </a>
           
            
