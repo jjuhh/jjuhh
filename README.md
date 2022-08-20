@@ -12,8 +12,10 @@
 
 
   ##### How to reach me :telephone:
-  <img src="https://img.shields.io/badge/juhyunk@snu.ac.kr-DB4437?style=flat-square&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/juhyunk_-00ACEE?style=flat-square&logo=twitter&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;toj=juhyunk@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/juhyunk@snu.ac.kr-DB4437?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/juhyunk_" target="_blank"><img src="https://img.shields.io/badge/juhyunk_-00ACEE?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
 
   ##### Skills & Languages :wrench:
   Techs that I've used at least once.  
