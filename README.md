@@ -8,11 +8,11 @@
   Now I'm PhD candidate!
 
 
-  ##### Edu 
+  ##### Educations 
 
 
   ##### How to reach me :telephone:
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;toj=juhyunk@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/juhyunk@snu.ac.kr-DB4437?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=juhyunk@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/juhyunk@snu.ac.kr-DB4437?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/juhyunk_" target="_blank"><img src="https://img.shields.io/badge/juhyunk_-00ACEE?style=flat-square&logo=twitter&logoColor=white"/>
   </a>
