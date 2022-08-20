@@ -22,7 +22,8 @@
   Techs that I've used at least once.  
   <img src="https://img.shields.io/badge/python-FFD43B?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-4285F4?style=flat-square&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=GNOMETerminal&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=GNOMETerminal&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>     
   <img src="https://img.shields.io/badge/Linux-dd4814?style=flat-square&logo=LINUX&logoColor=white"/>
   <img src="https://img.shields.io/badge/CenOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-00A4EF?style=flat-square&logo=WINDOWS&logoColor=white"/>
