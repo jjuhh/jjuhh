@@ -10,7 +10,7 @@
 
   #### Educations 
   Soongsil University '15~'19 (B.S in Medical-biosystematics)         
-  Seoul National University '19~present (Department of Biomedical Sciences, Advisor = Jong-Il Kim)
+  Seoul National University '19~present (Department of Biomedical Sciences, Advisor = Jong-Il Kim, Ph.D.)
   
   #### How to reach me :telephone:
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=juhyunk@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/juhyunk@snu.ac.kr-DB4437?style=flat-square&logo=gmail&logoColor=white"/>
